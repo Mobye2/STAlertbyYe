@@ -28,3 +28,5 @@ def datetoTWslash(date):
     date = date.replace('2022', "111",1)
 
     return date
+
+Pricedata='/112kdnewhistory/'
